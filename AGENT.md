@@ -9,7 +9,7 @@ step01_pre_filter_base: 전처리 토글/옵션과 기본 전처리 규칙(Pre F
 
 step02_pre_filter_custom: 미인식 문자 치환 등 커스텀 전처리 규칙과 확장 문자 변환(반각 가타카나 등) 규칙입니다. 이건 이미 만들었어
 
-step03_pre_filter_personal: 개인용 전처리 교정/정규화 규칙입니다.
+step03_pre_filter_personal: 개인용 전처리 교정/정규화 규칙입니다. 이건 이미 만들었어
 
 step04_userdict_required: 필터링에 필요한 더미 명사/접두·접미 등 필수 기반 사용자 사전입니다.
 
