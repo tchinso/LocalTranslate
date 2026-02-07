@@ -5,7 +5,7 @@ ezTransXP 는 인공지능이 아닌 rule-based 번역기야.
 
 ### 만들 사전 파일들 
 
-step01_pre_filter_base: 전처리 토글/옵션과 기본 전처리 규칙(Pre Filters) 정의 파일입니다.
+step01_pre_filter_base: 전처리 토글/옵션과 기본 전처리 규칙(Pre Filters) 정의 파일입니다. 이건 이미 만들었어.
 
 step02_pre_filter_custom: 미인식 문자 치환 등 커스텀 전처리 규칙과 확장 문자 변환(반각 가타카나 등) 규칙입니다.
 
